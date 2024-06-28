@@ -1,1 +1,2 @@
-Se działam cnie :D
+- Student Politechniki Opolskiej
+- Programuję w Java (Spigot, JDA, Spring)
