@@ -1,2 +1,2 @@
 - Student Politechniki Opolskiej
-- Programuję w Java (Spigot, JDA, Spring)
+- Uczę się PHP (Laravel)
